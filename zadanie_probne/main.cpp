@@ -2,6 +2,8 @@
 
 using namespace std;
 
+//Zadanie https://pl.spoj.com/problems/PTEST/
+
 class Zadanie_probne {
 
     int pierwszySkladnikSumy, drugiSkladnikSumy, suma;
