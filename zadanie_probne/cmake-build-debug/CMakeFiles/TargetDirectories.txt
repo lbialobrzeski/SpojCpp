@@ -1,0 +1,3 @@
+/home/lukasz/Repozytoria/SpojCpp/zadanie_probne/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/lukasz/Repozytoria/SpojCpp/zadanie_probne/cmake-build-debug/CMakeFiles/Zadanie_probne.dir
+/home/lukasz/Repozytoria/SpojCpp/zadanie_probne/cmake-build-debug/CMakeFiles/edit_cache.dir

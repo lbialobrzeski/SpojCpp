@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/Zadanie_probne.dir/main.cpp.o  -o Zadanie_probne 

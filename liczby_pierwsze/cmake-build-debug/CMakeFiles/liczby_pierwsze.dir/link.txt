@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/liczby_pierwsze.dir/main.cpp.o  -o liczby_pierwsze 
