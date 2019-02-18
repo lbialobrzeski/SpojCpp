@@ -1,3 +1,7 @@
+# Created by https://www.gitignore.io/api/c++,clion+iml,codeblocks
+# Edit at https://www.gitignore.io/?templates=c++,clion+iml,codeblocks
+
+### C++ ###
 # Prerequisites
 *.d
 
@@ -31,11 +35,7 @@
 *.out
 *.app
 
-
-# Created by https://www.gitignore.io/api/clion
-# Edit at https://www.gitignore.io/?templates=clion
-
-### CLion ###
+### CLion+iml ###
 # Covers JetBrains IDEs: IntelliJ, RubyMine, PhpStorm, AppCode, PyCharm, CLion, Android Studio and WebStorm
 # Reference: https://intellij-support.jetbrains.com/hc/en-us/articles/206544839
 
@@ -103,15 +103,20 @@ fabric.properties
 # Android studio 3.1+ serialized cache file
 .idea/caches/build_file_checksums.ser
 
-### CLion Patch ###
-# Comment Reason: https://github.com/joeblau/gitignore.io/issues/186#issuecomment-215987721
+### CLion+iml Patch ###
+# Reason: https://github.com/joeblau/gitignore.io/issues/186#issuecomment-249601023
 
-# *.iml
-# modules.xml
-# .idea/misc.xml
-# *.ipr
+*.iml
+modules.xml
+.idea/misc.xml
+*.ipr
 
-# Sonarlint plugin
-.idea/sonarlint
+### CodeBlocks ###
+# specific to CodeBlocks IDE
+*.layout
+*.depend
+# generated directories
+bin/
+obj/
 
-# End of https://www.gitignore.io/api/clion
+# End of https://www.gitignore.io/api/c++,clion+iml,codeblocks
